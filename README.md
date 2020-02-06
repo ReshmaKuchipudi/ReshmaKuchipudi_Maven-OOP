@@ -17,4 +17,3 @@ This task is to create a maven project about a NewYearGift.
 Identifying the heirarchy of classes.
 
 creating multiple objects for the classes.
-
